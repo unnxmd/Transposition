@@ -89,7 +89,7 @@
             this.Controls.Add(this.listBoxDecrypt);
             this.Controls.Add(this.listBoxEncrypt);
             this.Name = "Form1";
-            this.Text = "Permutation";
+            this.Text = "Transposition";
             this.ResumeLayout(false);
 
         }
